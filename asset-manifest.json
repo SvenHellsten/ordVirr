@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ordvirr/static/css/main.a6217612.chunk.css",
-    "main.js": "/ordvirr/static/js/main.c4cafc8d.chunk.js",
-    "main.js.map": "/ordvirr/static/js/main.c4cafc8d.chunk.js.map",
+    "main.js": "/ordvirr/static/js/main.0bc059f1.chunk.js",
+    "main.js.map": "/ordvirr/static/js/main.0bc059f1.chunk.js.map",
     "runtime-main.js": "/ordvirr/static/js/runtime-main.ea996836.js",
     "runtime-main.js.map": "/ordvirr/static/js/runtime-main.ea996836.js.map",
     "static/js/2.7b3cdd61.chunk.js": "/ordvirr/static/js/2.7b3cdd61.chunk.js",
     "static/js/2.7b3cdd61.chunk.js.map": "/ordvirr/static/js/2.7b3cdd61.chunk.js.map",
     "index.html": "/ordvirr/index.html",
-    "precache-manifest.1187f9d16fbd419c49e019b5dbb0c244.js": "/ordvirr/precache-manifest.1187f9d16fbd419c49e019b5dbb0c244.js",
+    "precache-manifest.c9b538e65f180d68debeaa0413395b75.js": "/ordvirr/precache-manifest.c9b538e65f180d68debeaa0413395b75.js",
     "service-worker.js": "/ordvirr/service-worker.js",
     "static/css/main.a6217612.chunk.css.map": "/ordvirr/static/css/main.a6217612.chunk.css.map",
     "static/js/2.7b3cdd61.chunk.js.LICENSE.txt": "/ordvirr/static/js/2.7b3cdd61.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ea996836.js",
     "static/js/2.7b3cdd61.chunk.js",
     "static/css/main.a6217612.chunk.css",
-    "static/js/main.c4cafc8d.chunk.js"
+    "static/js/main.0bc059f1.chunk.js"
   ]
 }
