@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e0cd3f465e959fea48c38d59d1b94c0",
+    "revision": "44fa5ce5cb49696f7c0e2940197a272c",
     "url": "/ordvirr/index.html"
   },
   {
-    "revision": "901ac3a6c844bbf56962",
+    "revision": "89b69c5debf920a3b802",
     "url": "/ordvirr/static/css/main.a6217612.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ordvirr/static/js/2.7b3cdd61.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "901ac3a6c844bbf56962",
-    "url": "/ordvirr/static/js/main.0bc059f1.chunk.js"
+    "revision": "89b69c5debf920a3b802",
+    "url": "/ordvirr/static/js/main.c4cafc8d.chunk.js"
   },
   {
     "revision": "c6d65a64e8b4f441d6e8",
