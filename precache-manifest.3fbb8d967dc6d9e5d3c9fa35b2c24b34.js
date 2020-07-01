@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b225de1e8540ac501436b95bfe39ed1d",
+    "revision": "8632b69a89f3551e3a120a40585129d0",
     "url": "/ordvirr/index.html"
   },
   {
